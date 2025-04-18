@@ -1,0 +1,1 @@
+Este foi meu primeiro projeto java com mão na massa. A lógica é simples e intuitiva, o usuário deve digitar uma temperatura em Fahrenheit, e o próprio computador vai fazer o calculo funcional dessa fórmula > (num1 - 32) * 5.0 / 9.0;<
