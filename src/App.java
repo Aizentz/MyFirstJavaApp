@@ -7,7 +7,7 @@ public class App {
         System.out.print("Digite quantos graus Fº: ");
         double num1 = Double.parseDouble(scanner.nextLine());
 
-        double f = (num1 - 32)/ 9 * 5;
+        double f = (num1 - 32) * 5.0 / 9.0;
         
         System.out.println("parece que a temperatura é de "+ f +" Cº");
 
